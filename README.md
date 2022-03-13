@@ -14,7 +14,7 @@ This Project is all about frontend website development
 
     You can clone it to your Github Account by executing the code below in your system terminal. (Ignore this step, If you have already downloaded)
 ```bash
-  git clone https://github.com/ayeujjawalsingh/hungry.git
+  git clone git@github.com:ayeujjawalsingh/Hungry.git
 ```
 
 💬 Ask me, If your project is not running - 
