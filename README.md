@@ -41,13 +41,13 @@ HTML & CSS only...
 
 ### Middle View
 
-![App Screenshot](https://github.com/ayeujjawalsingh/hungry/blob/main/img/Screenshot%20(25).png?raw=true)
+![App Screenshot](https://github.com/ayeujjawalsingh/Hungry/blob/master/img/Screenshot%20(25).png)
 -
 
 ### Bottom View
 
 
-![App Screenshot](https://github.com/ayeujjawalsingh/hungry/blob/main/img/Screenshot%20(27).png?raw=true)
+![App Screenshot](https://github.com/ayeujjawalsingh/Hungry/blob/master/img/Screenshot%20(27).png)
 -
 ## Feedback
 
