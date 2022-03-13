@@ -36,12 +36,12 @@ HTML & CSS only...
 
 ### Top View
 
-![App Screenshot](https://github.com/AyeRaj/hungry/blob/main/img/Screenshot%20(24).png?raw=true)
+![App Screenshot](https://github.com/ayeujjawalsingh/hungry/blob/main/img/Screenshot%20(24).png?raw=true)
 -
 
 ### Middle View
 
-![App Screenshot](https://github.com/AyeRaj/hungry/blob/main/img/Screenshot%20(25).png?raw=true)
+![App Screenshot](https://github.com/ayeujjawalsingh/hungry/blob/main/img/Screenshot%20(25).png?raw=true)
 -
 
 ### Bottom View
