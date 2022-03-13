@@ -36,7 +36,7 @@ HTML & CSS only...
 
 ### Top View
 
-![App Screenshot](https://github.com/ayeujjawalsingh/hungry/blob/main/img/Screenshot%20(24).png?raw=true)
+![App Screenshot](https://github.com/ayeujjawalsingh/Hungry/blob/master/img/Screenshot%20(24).png)
 -
 
 ### Middle View
